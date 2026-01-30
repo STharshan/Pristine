@@ -54,7 +54,7 @@ const HeroSection = () => {
           data-aos="fade-up"
           data-aos-delay="300"
         >
-          Bodywork Repairs Newcastle
+          Pristine Motors Car Care
         </p>
 
         {/* CTA Button */}
